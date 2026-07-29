@@ -1,0 +1,763 @@
+#EXTM3U
+#EXTINF:0 tvg-rec="3",Сериалы Турции
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/9123/index.m3u8
+#EXTINF:0 tvg-rec="0",Вестерн
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/31553/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинофестиваль HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/31621/index.m3u8
+#EXTINF:0 tvg-rec="0",Premium Kinozakaz+ 4K HDR
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/31547/index.m3u8
+#EXTINF:0 tvg-rec="0",Premium Premiere+ 4K HDR
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/31549/index.m3u8
+#EXTINF:0 tvg-rec="3",Счастливы Вместе
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/9242/index.m3u8
+#EXTINF:0 tvg-rec="7",Бесстыжие
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10075/index.m3u8
+#EXTINF:0 tvg-rec="7",Владимир Высоцкий
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10066/index.m3u8
+#EXTINF:0 tvg-rec="7",Два с половиной человека
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10062/index.m3u8
+#EXTINF:0 tvg-rec="0",Новогодний
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17035/index.m3u8
+#EXTINF:0 tvg-rec="0",Ёлки
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/14222/index.m3u8
+#EXTINF:0 tvg-rec="0",New Year
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/15522/index.m3u8
+#EXTINF:0 tvg-rec="0",С новым годом!
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/15524/index.m3u8
+#EXTINF:0 tvg-rec="0",Гарри Поттер
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/14230/index.m3u8
+#EXTINF:0 tvg-rec="0",Секс в большом городе
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/14224/index.m3u8
+#EXTINF:0 tvg-rec="0",Карточный домик
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/14221/index.m3u8
+#EXTINF:0 tvg-rec="0",Disney Movie
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/15010/index.m3u8
+#EXTINF:0 tvg-rec="0",Теория большого взрыва
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/15009/index.m3u8
+#EXTINF:0 tvg-rec="0",Family Guy HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/19414/index.m3u8
+#EXTINF:0 tvg-rec="0",OldSchool HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/19413/index.m3u8
+#EXTINF:0 tvg-rec="7",Adventure
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10000/index.m3u8
+#EXTINF:0 tvg-rec="7",Anime
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10001/index.m3u8
+#EXTINF:0 tvg-rec="7",Cartoon
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10002/index.m3u8
+#EXTINF:0 tvg-rec="7",Comedy
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10003/index.m3u8
+#EXTINF:0 tvg-rec="7",Family
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10004/index.m3u8
+#EXTINF:0 tvg-rec="7",Fantasy
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10005/index.m3u8
+#EXTINF:0 tvg-rec="7",Melodrama
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10006/index.m3u8
+#EXTINF:0 tvg-rec="7",Mystic
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10007/index.m3u8
+#EXTINF:0 tvg-rec="7",Ужасы
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10008/index.m3u8
+#EXTINF:0 tvg-rec="7",VHS MIX
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10009/index.m3u8
+#EXTINF:0 tvg-rec="7",Ужасы VHS
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10010/index.m3u8
+#EXTINF:0 tvg-rec="7",Премьера
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10051/index.m3u8
+#EXTINF:0 tvg-rec="7",Premiere
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10052/index.m3u8
+#EXTINF:0 tvg-rec="7",Классика
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10053/index.m3u8
+#EXTINF:0 tvg-rec="7",Classic
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10054/index.m3u8
+#EXTINF:0 tvg-rec="7",Комедия
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10055/index.m3u8
+#EXTINF:0 tvg-rec="7",Катастрофы
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10080/index.m3u8
+#EXTINF:0 tvg-rec="7",Marvel
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10081/index.m3u8
+#EXTINF:0 tvg-rec="7",Военные
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10082/index.m3u8
+#EXTINF:0 tvg-rec="7",Наша победа
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10083/index.m3u8
+#EXTINF:0 tvg-rec="7",Мосфильм
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10084/index.m3u8
+#EXTINF:0 tvg-rec="7",Фильмы СССР
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10085/index.m3u8
+#EXTINF:0 tvg-rec="7",Мультфильмы СССР
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10086/index.m3u8
+#EXTINF:0 tvg-rec="7",Боевик
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10087/index.m3u8
+#EXTINF:0 tvg-rec="7",Premiere 1 HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11015/index.m3u8
+#EXTINF:0 tvg-rec="7",Premiere 2 HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11016/index.m3u8
+#EXTINF:0 tvg-rec="7",Premiere 3 HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11017/index.m3u8
+#EXTINF:0 tvg-rec="7",СССР HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11026/index.m3u8
+#EXTINF:0 tvg-rec="7",Action HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11027/index.m3u8
+#EXTINF:0 tvg-rec="7",Catastrophe HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11028/index.m3u8
+#EXTINF:0 tvg-rec="7",Cinema HDR
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11029/index.m3u8
+#EXTINF:0 tvg-rec="7",Cinema+ HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11030/index.m3u8
+#EXTINF:0 tvg-rec="7",Comedy HDR
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11031/index.m3u8
+#EXTINF:0 tvg-rec="7",Fantastic HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11032/index.m3u8
+#EXTINF:0 tvg-rec="7",FilMystic HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11033/index.m3u8
+#EXTINF:0 tvg-rec="7",History HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11034/index.m3u8
+#EXTINF:0 tvg-rec="7",Kinorating HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11037/index.m3u8
+#EXTINF:0 tvg-rec="7",Marvel HDR
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11038/index.m3u8
+#EXTINF:0 tvg-rec="7",Premiere HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11039/index.m3u8
+#EXTINF:0 tvg-rec="7",Romantic HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11040/index.m3u8
+#EXTINF:0 tvg-rec="7",Russian HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11041/index.m3u8
+#EXTINF:0 tvg-rec="7",VHS HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11042/index.m3u8
+#EXTINF:0 tvg-rec="7",Media HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11043/index.m3u8
+#EXTINF:0 tvg-rec="7",Stars HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11044/index.m3u8
+#EXTINF:0 tvg-rec="7",Ultra 4K
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11045/index.m3u8
+#EXTINF:0 tvg-rec="7",RuSerial HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11046/index.m3u8
+#EXTINF:0 tvg-rec="7",Сваты HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11047/index.m3u8
+#EXTINF:0 tvg-rec="7",Criminal HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11048/index.m3u8
+#EXTINF:0 tvg-rec="0",Premiere Ultra 4K
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/15023/index.m3u8
+#EXTINF:0 tvg-rec="0",Media HD OLD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/15024/index.m3u8
+#EXTINF:0 tvg-rec="0",Marvel HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/15025/index.m3u8
+#EXTINF:0 tvg-rec="0",Comedy HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/15026/index.m3u8
+#EXTINF:0 tvg-rec="0",Reality HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/16082/index.m3u8
+#EXTINF:0 tvg-rec="0",Reality OLD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/16083/index.m3u8
+#EXTINF:0 tvg-rec="0",Survival HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17019/index.m3u8
+#EXTINF:0 tvg-rec="0",Survival OLD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17020/index.m3u8
+#EXTINF:0 tvg-rec="0",Cosmo HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17021/index.m3u8
+#EXTINF:0 tvg-rec="0",TruMotion HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17054/index.m3u8
+#EXTINF:0 tvg-rec="0",Romantic OLD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/18052/index.m3u8
+#EXTINF:0 tvg-rec="0",Кино 4K
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11114/index.m3u8
+#EXTINF:0 tvg-rec="0",Сериал 4K
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11115/index.m3u8
+#EXTINF:0 tvg-rec="0",TOP Series
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11116/index.m3u8
+#EXTINF:0 tvg-rec="0",Art house
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11119/index.m3u8
+#EXTINF:0 tvg-rec="0",Detective
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11120/index.m3u8
+#EXTINF:0 tvg-rec="0",Fantastic
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11121/index.m3u8
+#EXTINF:0 tvg-rec="0",Оскар
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11122/index.m3u8
+#EXTINF:0 tvg-rec="0",007 HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13009/index.m3u8
+#EXTINF:0 tvg-rec="0",Love HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13010/index.m3u8
+#EXTINF:0 tvg-rec="0",NewFilm 1 HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13011/index.m3u8
+#EXTINF:0 tvg-rec="0",NewFilm 2 HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13012/index.m3u8
+#EXTINF:0 tvg-rec="0",NewFilm 3 HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13013/index.m3u8
+#EXTINF:0 tvg-rec="0",NewFilm RU HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13014/index.m3u8
+#EXTINF:0 tvg-rec="0",Rock HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13015/index.m3u8
+#EXTINF:0 tvg-rec="0",Tom and Jerry HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13016/index.m3u8
+#EXTINF:0 tvg-rec="0",UFO HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13017/index.m3u8
+#EXTINF:0 tvg-rec="0",USSR 1941-1945 HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13018/index.m3u8
+#EXTINF:0 tvg-rec="0",USSR Комедия HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13019/index.m3u8
+#EXTINF:0 tvg-rec="0",USSR Мультфильм HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13020/index.m3u8
+#EXTINF:0 tvg-rec="0",USSR Сказки HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13021/index.m3u8
+#EXTINF:0 tvg-rec="0",USSR Драма HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13022/index.m3u8
+#EXTINF:0 tvg-rec="0",World Hits HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13023/index.m3u8
+#EXTINF:0 tvg-rec="0",Агата Кристи HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13024/index.m3u8
+#EXTINF:0 tvg-rec="0",Грайндхаус HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13025/index.m3u8
+#EXTINF:0 tvg-rec="0",Honey HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13026/index.m3u8
+#EXTINF:0 tvg-rec="0",Боевик Classic HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13027/index.m3u8
+#EXTINF:0 tvg-rec="0",Боевик HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13028/index.m3u8
+#EXTINF:0 tvg-rec="0",Вестерн HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13029/index.m3u8
+#EXTINF:0 tvg-rec="0",Воронины HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13031/index.m3u8
+#EXTINF:0 tvg-rec="0",Затмение HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13032/index.m3u8
+#EXTINF:0 tvg-rec="0",История HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13033/index.m3u8
+#EXTINF:0 tvg-rec="0",Катастрофа HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13034/index.m3u8
+#EXTINF:0 tvg-rec="0",Квартирник HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13035/index.m3u8
+#EXTINF:0 tvg-rec="0",Киберпанк HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13036/index.m3u8
+#EXTINF:0 tvg-rec="0",Комедия Classic HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13037/index.m3u8
+#EXTINF:0 tvg-rec="0",Комедия HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13038/index.m3u8
+#EXTINF:0 tvg-rec="0",Криминал HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13039/index.m3u8
+#EXTINF:0 tvg-rec="0",Крутые 90-е HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13040/index.m3u8
+#EXTINF:0 tvg-rec="0",Кунг-Фу HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13041/index.m3u8
+#EXTINF:0 tvg-rec="0",Lesson HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13042/index.m3u8
+#EXTINF:0 tvg-rec="0",Smile HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13043/index.m3u8
+#EXTINF:0 tvg-rec="0",Мифология HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13044/index.m3u8
+#EXTINF:0 tvg-rec="0",Нуар HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13045/index.m3u8
+#EXTINF:0 tvg-rec="0",Ситком 2.0 HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13046/index.m3u8
+#EXTINF:0 tvg-rec="0",Погружение HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13047/index.m3u8
+#EXTINF:0 tvg-rec="0",Приключения HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13048/index.m3u8
+#EXTINF:0 tvg-rec="0",Полицейский с Рублёвки HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13049/index.m3u8
+#EXTINF:0 tvg-rec="0",Роскино HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13050/index.m3u8
+#EXTINF:0 tvg-rec="0",Сваты HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13051/index.m3u8
+#EXTINF:0 tvg-rec="0",Ситком HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13052/index.m3u8
+#EXTINF:0 tvg-rec="0",Скорость HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13053/index.m3u8
+#EXTINF:0 tvg-rec="0",Спорт HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13054/index.m3u8
+#EXTINF:0 tvg-rec="0",Стивен Кинг HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13055/index.m3u8
+#EXTINF:0 tvg-rec="0",Супергерои HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13056/index.m3u8
+#EXTINF:0 tvg-rec="0",Flip UHD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13057/index.m3u8
+#EXTINF:0 tvg-rec="0",Триллер HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13058/index.m3u8
+#EXTINF:0 tvg-rec="0",Ужастик HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13059/index.m3u8
+#EXTINF:0 tvg-rec="0",USSR Приключения HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13060/index.m3u8
+#EXTINF:0 tvg-rec="0",Синематограф HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13061/index.m3u8
+#EXTINF:0 tvg-rec="0",Фантастика HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13062/index.m3u8
+#EXTINF:0 tvg-rec="0",Фобия HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13063/index.m3u8
+#EXTINF:0 tvg-rec="0",Walt Disney HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13064/index.m3u8
+#EXTINF:0 tvg-rec="0",Live Planet HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13095/index.m3u8
+#EXTINF:0 tvg-rec="0",USSR Детектив HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13096/index.m3u8
+#EXTINF:0 tvg-rec="0",Семейный 1 HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13097/index.m3u8
+#EXTINF:0 tvg-rec="0",Семейный 2 HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13098/index.m3u8
+#EXTINF:0 tvg-rec="0",Ужасы HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13099/index.m3u8
+#EXTINF:0 tvg-rec="0",Ужасы Classic HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/14128/index.m3u8
+#EXTINF:0 tvg-rec="0",Celebrity HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/16084/index.m3u8
+#EXTINF:0 tvg-rec="0",Classic HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/16085/index.m3u8
+#EXTINF:0 tvg-rec="0",Драма HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/16086/index.m3u8
+#EXTINF:0 tvg-rec="0",Сваты
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13080/index.m3u8
+#EXTINF:0 tvg-rec="0",Солдаты
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13081/index.m3u8
+#EXTINF:0 tvg-rec="0",Тайны следствия
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13082/index.m3u8
+#EXTINF:0 tvg-rec="0",Воронины
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13083/index.m3u8
+#EXTINF:0 tvg-rec="0",Универ
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13084/index.m3u8
+#EXTINF:0 tvg-rec="0",Series
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13085/index.m3u8
+#EXTINF:0 tvg-rec="0",След
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13086/index.m3u8
+#EXTINF:0 tvg-rec="0",Сериал
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13087/index.m3u8
+#EXTINF:0 tvg-rec="0",Мыльные оперы
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13088/index.m3u8
+#EXTINF:0 tvg-rec="0",Thriller
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13089/index.m3u8
+#EXTINF:0 tvg-rec="0",Индия
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13090/index.m3u8
+#EXTINF:0 tvg-rec="0",История
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13091/index.m3u8
+#EXTINF:0 tvg-rec="0",Comics
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13092/index.m3u8
+#EXTINF:0 tvg-rec="0",Криминал
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13093/index.m3u8
+#EXTINF:0 tvg-rec="0",Клиника
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13094/index.m3u8
+#EXTINF:0 tvg-rec="0",Луи де Фюнес
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17000/index.m3u8
+#EXTINF:0 tvg-rec="0",Чернобыль
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17001/index.m3u8
+#EXTINF:0 tvg-rec="0",The X-Files
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17002/index.m3u8
+#EXTINF:0 tvg-rec="0",Сверхъестественное
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17003/index.m3u8
+#EXTINF:0 tvg-rec="0",Леонид Гайдай
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17004/index.m3u8
+#EXTINF:0 tvg-rec="0",Американская история ужасов
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17005/index.m3u8
+#EXTINF:0 tvg-rec="0",Друзья
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17006/index.m3u8
+#EXTINF:0 tvg-rec="0",СашаТаня
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17008/index.m3u8
+#EXTINF:0 tvg-rec="0",Джеки Чан
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17009/index.m3u8
+#EXTINF:0 tvg-rec="0",Наша Раша
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17010/index.m3u8
+#EXTINF:0 tvg-rec="0",Привет из 90х
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17011/index.m3u8
+#EXTINF:0 tvg-rec="0",Эльдар Рязанов
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17012/index.m3u8
+#EXTINF:0 tvg-rec="0",Универ новая общага
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17013/index.m3u8
+#EXTINF:0 tvg-rec="0",Ходячие мертвецы
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17014/index.m3u8
+#EXTINF:0 tvg-rec="0",Реальные пацаны
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17015/index.m3u8
+#EXTINF:0 tvg-rec="0",Доктор Хаус
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17016/index.m3u8
+#EXTINF:0 tvg-rec="0",Без цензуры
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17017/index.m3u8
+#EXTINF:0 tvg-rec="0",Городок
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/18097/index.m3u8
+#EXTINF:0 tvg-rec="0",Comedy Woman
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/18101/index.m3u8
+#EXTINF:0 tvg-rec="0",Игра престолов
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/18119/index.m3u8
+#EXTINF:0 tvg-rec="0",Одесская киностудия
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/18120/index.m3u8
+#EXTINF:0 tvg-rec="0",Ленфильм
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/18121/index.m3u8
+#EXTINF:0 tvg-rec="0",Киностудия им. Горького
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/18122/index.m3u8
+#EXTINF:0 tvg-rec="0",Рижская киностудия
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/18123/index.m3u8
+#EXTINF:0 tvg-rec="0",Свердловская киностудия
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/18124/index.m3u8
+#EXTINF:0 tvg-rec="0",Беларусьфильм
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/18125/index.m3u8
+#EXTINF:0 tvg-rec="0",Netflix
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/19427/index.m3u8
+#EXTINF:0 tvg-rec="0",HBO
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/19428/index.m3u8
+#EXTINF:0 tvg-rec="0",Media 2 HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/32220/index.m3u8
+#EXTINF:0 tvg-rec="0",Media 3 HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/32221/index.m3u8
+#EXTINF:0 tvg-rec="0",Cinema HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/32222/index.m3u8
+#EXTINF:0 tvg-rec="0",Michael Jackson
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/31554/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia 90s HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/31658/index.m3u8
+#EXTINF:0 tvg-rec="0",Король и Шут
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/31555/index.m3u8
+#EXTINF:0 tvg-rec="7",Легенды Ретро ФМ
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/10067/index.m3u8
+#EXTINF:0 tvg-rec="0",Музыкальный Новый год!
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/16140/index.m3u8
+#EXTINF:0 tvg-rec="0",Modern Talking
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/14004/index.m3u8
+#EXTINF:0 tvg-rec="0",Britney Spears
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/14005/index.m3u8
+#EXTINF:0 tvg-rec="0",Музыка
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/15512/index.m3u8
+#EXTINF:0 tvg-rec="0",Music
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/15516/index.m3u8
+#EXTINF:0 tvg-rec="0",Rock
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/15517/index.m3u8
+#EXTINF:0 tvg-rec="0",Караоке
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/15518/index.m3u8
+#EXTINF:0 tvg-rec="0",Шансон
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/15519/index.m3u8
+#EXTINF:0 tvg-rec="0",Музсоюз
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/15521/index.m3u8
+#EXTINF:0 tvg-rec="0",Metal
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17033/index.m3u8
+#EXTINF:0 tvg-rec="0",Rap
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17034/index.m3u8
+#EXTINF:0 tvg-rec="0",Хит-парад
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17036/index.m3u8
+#EXTINF:0 tvg-rec="0",Русский рок
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17037/index.m3u8
+#EXTINF:0 tvg-rec="0",Relax HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/13030/index.m3u8
+#EXTINF:0 tvg-rec="0",Disney Cartoon
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/15027/index.m3u8
+#EXTINF:0 tvg-rec="0",Союзмультфильм
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/14238/index.m3u8
+#EXTINF:0 tvg-rec="0",Ералаш
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/14163/index.m3u8
+#EXTINF:0 tvg-rec="7",Multserial HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11025/index.m3u8
+#EXTINF:0 tvg-rec="7",Kids HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11035/index.m3u8
+#EXTINF:0 tvg-rec="7",Kids+ HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11036/index.m3u8
+#EXTINF:0 tvg-rec="0",Kids 4K
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17023/index.m3u8
+#EXTINF:0 tvg-rec="0",VHS Cartoon
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11118/index.m3u8
+#EXTINF:0 tvg-rec="0",Малыш
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11123/index.m3u8
+#EXTINF:0 tvg-rec="0",Мультуб
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/15520/index.m3u8
+#EXTINF:0 tvg-rec="0",Новогодние мультфильмы
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/15523/index.m3u8
+#EXTINF:0 tvg-rec="0",Скуби-Ду
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/17007/index.m3u8
+#EXTINF:0 tvg-rec="0",Little HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/19425/index.m3u8
+#EXTINF:0 tvg-rec="0",Мультсериал HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/32218/index.m3u8
+#EXTINF:0 tvg-rec="0",Авто
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/15511/index.m3u8
+#EXTINF:0 tvg-rec="0",Охота
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/15513/index.m3u8
+#EXTINF:0 tvg-rec="0",Домашний повар
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/15514/index.m3u8
+#EXTINF:0 tvg-rec="0",Путешествия
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/15515/index.m3u8
+#EXTINF:0 tvg-rec="0",Рыбалка
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/16138/index.m3u8
+#EXTINF:0 tvg-rec="0",Стройка
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/16139/index.m3u8
+#EXTINF:0 tvg-rec="0",Микромир HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/18193/index.m3u8
+#EXTINF:0 tvg-rec="0",Макромир HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/18194/index.m3u8
+#EXTINF:0 tvg-rec="0",Мегамир HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/18195/index.m3u8
+#EXTINF:0 tvg-rec="0",Translation HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/18196/index.m3u8
+#EXTINF:0 tvg-rec="0",Experiment HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/19412/index.m3u8
+#EXTINF:0 tvg-rec="0",Открытия HD
+#EXTGRP:BCU | MM
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/19415/index.m3u8
+#EXTINF:0 tvg-rec="0",Biography HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/32219/index.m3u8
+#EXTINF:0 tvg-rec="0",Орел и решка
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/31476/index.m3u8
+#EXTINF:0 tvg-rec="0",Маски Шоу
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/31556/index.m3u8
+#EXTINF:0 tvg-rec="0",Каламбур
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/31557/index.m3u8
+#EXTINF:0 tvg-rec="0",Концерты
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/14159/index.m3u8
+#EXTINF:0 tvg-rec="0",КВН
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/14170/index.m3u8
+#EXTINF:0 tvg-rec="0",Юмор 18+
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/16137/index.m3u8
+#EXTINF:0 tvg-rec="0",Уральские пельмени
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/18198/index.m3u8
+#EXTINF:0 tvg-rec="0",Кухня
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/18199/index.m3u8
+#EXTINF:0 tvg-rec="0",Баня
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/18200/index.m3u8
+#EXTINF:0 tvg-rec="0",Однажды в России
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/19286/index.m3u8
+#EXTINF:0 tvg-rec="0",Граиндхаус
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/14158/index.m3u8
+#EXTINF:0 tvg-rec="0",Cartoon 18+
+#EXTGRP:BCU | VF
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/11117/index.m3u8
+#EXTINF:0 tvg-rec="0",Charm HD
+#EXTGRP:BCU
+http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/18053/index.m3u8
